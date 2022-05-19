@@ -1,1 +1,2 @@
-Hi this is Git command file 
+Hi this is Git command file.
+Welcome to GitHub. 
